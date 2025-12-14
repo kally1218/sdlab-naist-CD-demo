@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>SD Lab Spring Seminar</title>
+        <title>SD Lab CD Demo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
